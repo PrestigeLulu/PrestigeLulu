@@ -5,6 +5,8 @@ Skills: PHP
 
 - 🌱 I’m currently learning PHP and other programming languages 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MIN0707)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIN2228)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MIN2228&show_icons=true)  
