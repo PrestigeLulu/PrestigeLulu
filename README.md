@@ -9,6 +9,6 @@ Skills: PHP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIN0707)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MIN0707)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MIN0707&theme=react-dark)
 
 ![Profile views](https://gpvc.arturio.dev/MIN0707)
