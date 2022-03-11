@@ -3,7 +3,7 @@
 
 Skills: PHP
 
-- 🌱 I’m currently learning PHP and other programming languages 
+- 🌱 I’m currently learning PHP, C and other programming languages 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MIN2228&show_icons=true)  
 
