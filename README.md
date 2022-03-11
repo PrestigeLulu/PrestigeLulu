@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is MIN
+#### I am Student that wants to become a developer!
 
-<!--
-**MIN0707/MIN0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: PHP
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning PHP and other programming languages 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MIN2228)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MIN2228)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIN2228)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MIN2228&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MIN2228)  
+
+![Profile views](https://gpvc.arturio.dev/MIN2228)  
