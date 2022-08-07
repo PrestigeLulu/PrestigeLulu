@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MIN</h1>
 <h3 align="center">I'm a student want to be developer</h3>
 
-- 🔭 I’m currently working on **신현중 피하기**
+- 🔭 I’m currently working on **신현중 피하기( Unity Game Name )**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Unity**
 
 - 📫 How to reach me **DISCORD 루루#1212**
 
