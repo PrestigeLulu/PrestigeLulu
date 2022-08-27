@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MIN</h1>
+<h2 align="center">Hi <img src="https://github.com/DOHWI/DOHWI/blob/main/Assets/wave.gif" width="20" />, I'm MIN</h2>
 <h3 align="center">I'm a student want to be developer</h3>
 
 - 🔭 I’m currently working on `Automatic Navercafe Posting`
