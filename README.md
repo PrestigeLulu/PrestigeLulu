@@ -19,3 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIN0707&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIN0707&count_private=true)
