@@ -1,9 +1,9 @@
 <h2 align="center">Hi <img src="https://github.com/DOHWI/DOHWI/blob/main/Assets/wave.gif" width="20" />, I'm MIN</h2>
 <h3 align="center">I'm a student want to be developer</h3>
 
-- 🔭 I’m currently working on `Automatic Navercafe Posting`
+- 🔭 I’m currently working on `Discord Bot`
 
-- 🌱 I’m currently learning `Java`, `TypeScript`, `Python`
+- 🌱 I’m currently learning `Java`, `TypeScript`
 
 - 📫 How to reach me `DISCORD 루루#1212`
 
