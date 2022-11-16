@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning `Java`, `TypeScript`, `Python`
 
-- 📫 How to reach me `DISCORD 루루#1212`
+- 📫 How to reach me `DISCORD 루루#1111`
 
 <h3 align="left">Languages</h3>
 <p align="left">
