@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm MIN</h2>
 <h3 align="center">I'm a student want to be developer</h3>
 
-- 🔭 I’m currently working on `Discord Bot`
+- 🔭 I’m currently working on `React`
 
-- 🌱 I’m currently learning `Java`, `TypeScript`
+- 🌱 I’m currently learning `Java`, `TypeScript`, `Python`
 
 - 📫 How to reach me `DISCORD 루루#1212`
 
