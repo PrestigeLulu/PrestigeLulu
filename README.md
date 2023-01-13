@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on `Discord js`
 
-- 🌱 I’m currently learning `V#`, `TypeScript`
+- 🌱 I’m currently learning `C#`, `TypeScript`
 
 - 📫 How to reach me `DISCORD 루루#1111`
 
