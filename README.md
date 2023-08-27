@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning `Nothing`
 
-- 📫 How to reach me `DISCORD 루루#1111`
+- 📫 How to reach me `DISCORD lulu0707`
 
 <h3 align="left">Languages</h3>
 <p align="left">
