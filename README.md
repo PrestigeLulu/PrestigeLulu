@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm MIN</h2>
-<h3 align="center">I'm a student want to be developer</h3>
+<h2 align="center">Hi 👋, I'm Lulu</h2>
+<h3 align="center">I'm a student developer</h3>
 
 - 🔭 I’m currently working on `Next js`
 
