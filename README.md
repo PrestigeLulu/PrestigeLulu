@@ -16,6 +16,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBugHouse&layout=compact&theme=apprentice&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestigeLulu&layout=compact&theme=apprentice&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBugHouse&count_private=true&theme=apprentice)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrestigeLulu&count_private=true&theme=apprentice)
